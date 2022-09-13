@@ -7,18 +7,19 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp; Sou um desenvolvedor Mobile, trabalhando principalmente com Javascript e React Native. \
+💡 &nbsp;Sou um desenvolvedor Mobile, trabalhando principalmente com TypeScript e React Native. \
 🎓 &nbsp;Sou graduando na Universidade Federal de São Carlos, Sorocaba (Bacharelado, Ciência da Computação).\
 🎮 &nbsp;No meu tempo livre eu jogo ou assisto séries e filmes como hobbie.\
 💬 &nbsp;Sinta-se à vontade para me chamar!\
 ✉️ &nbsp;Meu email de contato é victor.brayner@hotmail.com - Tentarei responder o mais rápido possível!\
-📄 &nbsp;Você pode dar uma olhada no meu [currículo](https://drive.google.com/file/d/1Rwa9BA4A5oULRIQPTz57LVrq5nCv998M/view?usp=sharing) para mais detalhes da minha experiência [(english resume)](https://drive.google.com/file/d/1Hu1nfZUOT-BRnW6hSTL7nqJjSh3uhaJ0/view?usp=sharing).
+📄 &nbsp;Você pode dar uma olhada no meu [currículo](https://drive.google.com/file/d/1-6xgMx47uvffF1Db0EzeAKnrSvocxtrA/view?usp=sharing) para mais detalhes da minha experiência [(english resume)](https://drive.google.com/file/d/1szOQumk3PEbPOdUUHr8NmLZ5VqjLf2a6/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
 
 ##### Programming Languages
 
 <p>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="25">
