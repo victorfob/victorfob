@@ -1,18 +1,18 @@
-## Olá, bem vindo(a) ao meu perfil! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
+## Hello, welcome to my profile! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
 ![version :16.09.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=victorfob&color=red)&nbsp;
 [![GitHub victorfob](https://img.shields.io/github/followers/victorfob?label=follow&style=social)](https://github.com/victorfob)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 
-### 👨🏻‍💻 &nbsp;Sobre mim
+### 👨🏻‍💻 &nbsp;About me
 
-💡 &nbsp;Sou um desenvolvedor Mobile, trabalhando principalmente com TypeScript e React Native. \
-🎓 &nbsp;Sou graduando na Universidade Federal de São Carlos, Sorocaba (Bacharelado, Ciência da Computação).\
-🎮 &nbsp;No meu tempo livre eu jogo ou assisto séries e filmes como hobbie.\
-💬 &nbsp;Sinta-se à vontade para me chamar!\
-✉️ &nbsp;Meu email de contato é victor.brayner@hotmail.com - Tentarei responder o mais rápido possível!\
-📄 &nbsp;Você pode dar uma olhada no meu [currículo](https://drive.google.com/file/d/1-6xgMx47uvffF1Db0EzeAKnrSvocxtrA/view?usp=sharing) para mais detalhes da minha experiência [(english resume)](https://drive.google.com/file/d/1szOQumk3PEbPOdUUHr8NmLZ5VqjLf2a6/view?usp=sharing).
+💡 &nbsp;I'm a Front-end developer, mainly working with TypeScript and React Native. \
+🎓 &nbsp;I'm graduating at the Federal University of São Carlos (Bachelor's Degree, Computer Science).\
+🎮 &nbsp;In my spare time I play videogames or watch series and movies as a hobby and I am currently learning to play piano as well.\
+💬 &nbsp;Feel free to call me anytime!\
+✉️ &nbsp;My contact email is victor.brayner@hotmail.com - I will try to respond as soon as possible!\
+📄 &nbsp;You can take a look at my [resume](https://drive.google.com/file/d/1szOQumk3PEbPOdUUHr8NmLZ5VqjLf2a6/view?usp=sharing) for more details of my experience. [(portuguese resume)](https://drive.google.com/file/d/1-6xgMx47uvffF1Db0EzeAKnrSvocxtrA/view?usp=sharing).
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -61,7 +61,7 @@
 </p>
 <p></p>
 
-### 📫 &nbsp; Como me contatar:
+### 📫 &nbsp; How to contact me:
 
 <a href="https://www.linkedin.com/in/victor-b-288036a6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:victor.brayner@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
