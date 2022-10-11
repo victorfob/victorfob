@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
-![version :11.10.2022](https://img.shields.io/badge/version-11.10.2022-informational) &nbsp;
+![version :10.11.2022](https://img.shields.io/badge/version-11.10.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=victorfob&color=red)&nbsp;
 [![GitHub victorfob](https://img.shields.io/github/followers/victorfob?label=follow&style=social)](https://github.com/victorfob)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
@@ -65,4 +65,4 @@
 
 <a href="https://www.linkedin.com/in/victor-b-288036a6/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:victor.brayner@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" /></a> &nbsp;
-<a href="https://www.instagram.com/brayner.victor/"><img alt="Instagram" src="https://img.shields.io/badge/-@brayner.victor_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://www.instagram.com/brayner.victor.tsx/"><img alt="Instagram" src="https://img.shields.io/badge/-@brayner.victor.tsx_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
