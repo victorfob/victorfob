@@ -1,6 +1,6 @@
 ## Hello, welcome to my profile! <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/>
 
-![version :16.09.2021](https://img.shields.io/badge/version-16.09.2021-informational) &nbsp;
+![version :11.10.2022](https://img.shields.io/badge/version-11.10.2022-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=victorfob&color=red)&nbsp;
 [![GitHub victorfob](https://img.shields.io/github/followers/victorfob?label=follow&style=social)](https://github.com/victorfob)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
